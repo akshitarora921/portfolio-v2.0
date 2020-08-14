@@ -7,9 +7,11 @@ function About() {
   return (
     <div className="about">
       <div className="about-content">
-        <Fade bottom cascade>
-          About.
-        </Fade>
+        <h1>
+          <Fade bottom cascade>
+            About.
+          </Fade>
+        </h1>
         <Fade bottom>
           <p>
             I am software Engineer, trying to learn and implement new things.

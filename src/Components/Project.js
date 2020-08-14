@@ -7,7 +7,7 @@ function Project({ imgSrc, title, service, projectUrl }) {
   return (
     <Fade bottom>
       <div className="project">
-        <a href={projectUrl}>
+        <a target="_blank" rel="noopener noreferrer" href={projectUrl}>
           <img src={imgSrc} alt={title} />
         </a>
         <h1>{title}</h1>

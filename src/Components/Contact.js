@@ -7,9 +7,9 @@ function Contact() {
   return (
     <div className="contact">
       <h1>
-        <fade bottom cascade>
+        <Fade bottom cascade>
           Contact.
-        </fade>
+        </Fade>
       </h1>
       <Fade bottom>
         <div className="contact-content">
@@ -17,27 +17,39 @@ function Contact() {
             Let's talk
             <span className="amazing-color">with eachother</span>
           </h1>
-          <a href="mailto:akshitarora9211@gmail.com">
+          <a className="email" href="mailto:akshitarora9211@gmail.com">
             akshitarora9211@gmail.com
           </a>
           <ul>
             <li>
-              <a target="_blank" rel="noopener noreferrer" href="">
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://github.com/akshitarora921"
+              >
                 Github
               </a>
             </li>
             <li>
-              <a target="_blank" rel="noopener noreferrer" href="">
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.linkedin.com/in/akshit-arora/"
+              >
                 LinkedIn
               </a>
             </li>
             <li>
-              <a target="_blank" rel="noopener noreferrer" href="">
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://www.instagram.com/_arorakshit/"
+              >
                 Instagram
               </a>
             </li>
             <li>
-              <a target="_blank" rel="noopener noreferrer" href="">
+              <a target="_blank" rel="noopener noreferrer" href="#">
                 Stackoverflow
               </a>
             </li>
