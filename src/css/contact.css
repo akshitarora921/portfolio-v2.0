@@ -38,3 +38,29 @@
   text-decoration: none;
   color: #2c59fb;
 }
+/* SMARTPHONES PORTRAIT */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .contact {
+    top: 15em;
+    left: 2em;
+  }
+  .contact h1 {
+    font-size: 4em;
+  }
+  .contact .email {
+    font-size: 3.5em;
+  }
+
+  .contact li {
+    display: block;
+    padding: 2em;
+  }
+  .contact li a {
+    font-size: 2.5em;
+  }
+  .footer {
+    top: 4em;
+    padding: 1em;
+    font-size: 2em;
+  }
+}

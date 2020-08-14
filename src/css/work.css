@@ -16,3 +16,16 @@
   grid-template-columns: repeat(2, 1fr);
   grid-gap: 2em;
 }
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+  .work {
+    left: 2em;
+    top: 2em;
+    align-items: flex-start;
+  }
+  .work .work-content {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 5em;
+  }
+}
