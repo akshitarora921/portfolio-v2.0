@@ -14,8 +14,7 @@ function Contact() {
       <Fade bottom>
         <div className="contact-content">
           <h1>
-            Let's talk
-            <span className="amazing-color">with eachother</span>
+            <span className="amazing-color">Let's talk</span>
           </h1>
           <a className="email" href="mailto:akshitarora9211@gmail.com">
             akshitarora9211@gmail.com
@@ -49,8 +48,12 @@ function Contact() {
               </a>
             </li>
             <li>
-              <a target="_blank" rel="noopener noreferrer" href="#">
-                Stackoverflow
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href="https://drive.google.com/file/d/17sDpHOWcmK_dfCNhY51e22X3qTXKaxmN/view?usp=sharing"
+              >
+                Resume
               </a>
             </li>
           </ul>

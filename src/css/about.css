@@ -5,7 +5,7 @@
 
 .about-content {
   position: relative;
-  left: 15em;
+  left: 10em;
 }
 .about-content h1 {
   font-family: "Montserrat", sans-serif;
@@ -30,7 +30,7 @@
     display: none;
   }
   .about-content {
-    left: 2em;
+    left: 2 em;
   }
   .about-content p {
     font-size: 3.5em;
