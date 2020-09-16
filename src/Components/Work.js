@@ -15,6 +15,18 @@ function Work() {
       </h1>
       <div className="work-content">
         <Project
+          title="Whatsapp Clone"
+          service="React JS, Redux, Redux-toolkit, Firebase and Material UI"
+          imgSrc="https://i.postimg.cc/3Rxqywhy/Fire-Shot-Capture-056-React-App-localhost.png"
+          projectUrl="https://whatsapp-clone-9498d.web.app/"
+        />
+        <Project
+          title="Google Clone"
+          service="React JS, Redux, Redux-toolkit and Material UI"
+          imgSrc="https://i.postimg.cc/PrbHScfy/Fire-Shot-Capture-018-React-App-clone-fc020-web-app.png"
+          projectUrl="https://clone-fc020.web.app/"
+        />
+        <Project
           title="Netflix Clone"
           service="React JS and Material UI"
           imgSrc="https://i.postimg.cc/tJ5BDxQR/Fire-Shot-Capture-006-Netflix-clone-netflix-clone-57636.png"

@@ -34,7 +34,6 @@ function Navbar() {
             smooth
             offset={-70}
             duration={500}
-            onClick={scrollToTop}
           >
             About
           </Link>
@@ -48,7 +47,6 @@ function Navbar() {
             smooth
             offset={-70}
             duration={500}
-            onClick={scrollToTop}
           >
             Work
           </Link>
@@ -62,7 +60,6 @@ function Navbar() {
             smooth
             offset={-70}
             duration={500}
-            onClick={scrollToTop}
           >
             Contact
           </Link>

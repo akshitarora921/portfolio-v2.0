@@ -64,12 +64,14 @@ header h1 {
     padding: 1em;
     margin-right: 0em;
   }
-
+  .header {
+    min-height: 100vh;
+  }
   .heading-background {
-    display: none;
+    font-size: 20em;
   }
   .header-title {
-    font-size: 3.6em;
+    font-size: 3em;
     text-align: left;
     top: 1em;
     left: 1em;

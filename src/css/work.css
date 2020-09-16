@@ -22,6 +22,7 @@
     left: 2em;
     top: 2em;
     align-items: flex-start;
+    justify-content: center;
   }
   .work .work-content {
     display: grid;

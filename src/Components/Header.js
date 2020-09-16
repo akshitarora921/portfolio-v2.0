@@ -10,13 +10,17 @@ function Header() {
       <header>
         <h1>
           <Fade bottom cascade>
-            Akshit Arora
+            akshitarora.
           </Fade>
         </h1>
       </header>
       <Fade bottom>
         <p className="header-title">
-          Hi <span role="img">👋</span> You found me! I am Akshit.
+          Hi{" "}
+          <span aria-label="emoji" role="img">
+            👋
+          </span>{" "}
+          You found me! I am Akshit.
           <br />
           Software Engineer
           <br />

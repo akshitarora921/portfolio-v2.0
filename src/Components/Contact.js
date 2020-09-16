@@ -51,7 +51,7 @@ function Contact() {
               <a
                 target="_blank"
                 rel="noopener noreferrer"
-                href="https://drive.google.com/file/d/17sDpHOWcmK_dfCNhY51e22X3qTXKaxmN/view?usp=sharing"
+                href="https://drive.google.com/file/d/1BU5cDJy2XBPpNuwtT9b0J2NHkxldlLtt/view?usp=sharing"
               >
                 Resume
               </a>

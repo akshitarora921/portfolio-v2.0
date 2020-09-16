@@ -5,7 +5,8 @@
 }
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
   .project img {
-    width: 45em;
-    height: 45em;
+    width: 50em;
+    /* height: 45em; */
+    object-fit: contain;
   }
 }
