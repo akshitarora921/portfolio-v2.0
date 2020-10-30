@@ -5,8 +5,8 @@ import "../css/about.css";
 
 function About() {
   return (
-    <div className="about">
-      <div className="about-content">
+    <div className='about'>
+      <div className='about-content'>
         <h1>
           <Fade bottom cascade>
             About.
@@ -20,8 +20,8 @@ function About() {
         </Fade>
       </div>
       <img
-        src="https://i.postimg.cc/SKZg9gtx/IMG-20200301-183324.jpg"
-        alt="aboutphoto"
+        src='https://i.postimg.cc/SKZg9gtx/IMG-20200301-183324.jpg'
+        alt='aboutphoto'
       />
     </div>
   );
