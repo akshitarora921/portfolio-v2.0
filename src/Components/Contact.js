@@ -5,53 +5,53 @@ import "../css/contact.css";
 
 function Contact() {
   return (
-    <div className="contact">
+    <div className='contact'>
       <h1>
         <Fade bottom cascade>
           Contact.
         </Fade>
       </h1>
       <Fade bottom>
-        <div className="contact-content">
+        <div className='contact-content'>
           <h1>
-            <span className="amazing-color">Let's talk</span>
+            <span className='amazing-color'>Let's talk</span>
           </h1>
-          <a className="email" href="mailto:akshitarora9211@gmail.com">
+          <a className='email' href='mailto:akshitarora9211@gmail.com'>
             akshitarora9211@gmail.com
           </a>
           <ul>
             <li>
               <a
-                target="_blank"
-                rel="noopener noreferrer"
-                href="https://github.com/akshitarora921"
+                target='_blank'
+                rel='noopener noreferrer'
+                href='https://github.com/akshitarora921'
               >
                 Github
               </a>
             </li>
             <li>
               <a
-                target="_blank"
-                rel="noopener noreferrer"
-                href="https://www.linkedin.com/in/akshit-arora/"
+                target='_blank'
+                rel='noopener noreferrer'
+                href='https://www.linkedin.com/in/akshit-arora/'
               >
                 LinkedIn
               </a>
             </li>
             <li>
               <a
-                target="_blank"
-                rel="noopener noreferrer"
-                href="https://www.instagram.com/_arorakshit/"
+                target='_blank'
+                rel='noopener noreferrer'
+                href='https://www.instagram.com/_arorakshit/'
               >
                 Instagram
               </a>
             </li>
             <li>
               <a
-                target="_blank"
-                rel="noopener noreferrer"
-                href="https://drive.google.com/file/d/1BU5cDJy2XBPpNuwtT9b0J2NHkxldlLtt/view?usp=sharing"
+                target='_blank'
+                rel='noopener noreferrer'
+                href='https://drive.google.com/file/d/1cgV06rracYtd-CvwDDL02uY7nda271lT/view?usp=sharing'
               >
                 Resume
               </a>
@@ -59,7 +59,7 @@ function Contact() {
           </ul>
         </div>
       </Fade>
-      <span className="footer">Made with ♥️ by Akshit Arora </span>
+      <span className='footer'>Made with ♥️ by Akshit Arora </span>
     </div>
   );
 }
