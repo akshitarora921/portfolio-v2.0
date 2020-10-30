@@ -59,7 +59,7 @@ function Contact() {
           </ul>
         </div>
       </Fade>
-      <span className='footer'>Made with ♥️ by Akshit Arora </span>
+      <span className='footer'>Made with 💙 by Akshit Arora </span>
     </div>
   );
 }
