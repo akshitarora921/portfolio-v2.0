@@ -8,8 +8,9 @@ import Contact from "./Components/Contact";
 import "./App.css";
 
 function App() {
+  // console.log(webgazer);
   return (
-    <div className="App">
+    <div className='App'>
       {/* <h1>This is my Portfolio</h1> */}
       <Navbar />
       <Header />
