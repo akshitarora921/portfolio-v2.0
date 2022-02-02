@@ -2,14 +2,16 @@
   position: relative;
   display: flex;
   flex-direction: column;
-  left: 15em;
-  top: 8em;
-  align-items: flex-start;
+  justify-content: center;
+  /* left: 15em;
+  top: 8em; */
+  align-items: center;
 }
 .work .heading {
   font-family: "Montserrat", sans-serif;
   font-size: 5em;
   text-align: left;
+  width: 90%;
 }
 .work .work-content {
   display: grid;
@@ -21,12 +23,16 @@
   .work {
     left: 2em;
     top: 2em;
-    align-items: flex-start;
+    align-items: center;
     justify-content: center;
   }
   .work .work-content {
     display: grid;
     grid-template-columns: 1fr;
     grid-gap: 5em;
+  }
+  .work .heading {
+    text-align: left;
+    width: 80%;
   }
 }

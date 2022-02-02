@@ -1,5 +1,4 @@
 import React from "react";
-
 import Fade from "react-reveal/Fade";
 
 import "../css/work.css";
@@ -15,10 +14,22 @@ function Work() {
       </h1>
       <div className='work-content'>
         <Project
+          title='feldroy.com'
+          service='Next.JS, TailwindCSS, Firebase, Firestore and vercel'
+          imgSrc='https://i.ibb.co/ZxCrhmg/Screenshot-from-2022-02-02-18-47-22.png'
+          projectUrl='https://feldroy.com'
+        />
+        <Project
+          title='Listen and Forget'
+          service='React JS, AudD and Chakra UI'
+          imgSrc='https://i.ibb.co/ZNyttMw/Screenshot-from-2022-02-02-18-54-59.png'
+          projectUrl='https://listen-and-forget.vercel.app/'
+        />
+        <Project
           title='AnaMoney Website'
           service='React JS and Chakra UI'
           imgSrc='https://i.postimg.cc/PrDSxsKz/Fire-Shot-Capture-065-Ana-Money-web-ana-money.png'
-          projectUrl='https://ana.money/#/'
+          projectUrl='https://ana-money-website.web.app/#/'
         />
         <Project
           title='Whatsapp Clone'

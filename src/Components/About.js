@@ -14,8 +14,12 @@ function About() {
         </h1>
         <Fade bottom>
           <p>
-            I am a self-taught developer who always has a hunger to learn new
-            things. I am a 2020 graduate with internship experience.
+            Hello! My name is Akshit. I am a self-taught developer who always
+            has a hunger to learn new things. I enjoy solving complex problems.
+            I can be relied upon to help your company achieve its goals by
+            providing sustainable and scalable solutions. I design and code
+            beautifully simple things, and I love what I do. <br />I enjoy
+            creating things that lives on the internet.
           </p>
         </Fade>
       </div>

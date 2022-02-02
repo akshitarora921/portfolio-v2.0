@@ -26,6 +26,7 @@
   .about {
     position: relative;
     display: flex;
+    justify-content: center;
     top: -30em;
   }
   .about img {

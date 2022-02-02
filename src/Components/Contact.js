@@ -51,15 +51,30 @@ function Contact() {
               <a
                 target='_blank'
                 rel='noopener noreferrer'
-                href='https://drive.google.com/file/d/1cgV06rracYtd-CvwDDL02uY7nda271lT/view?usp=sharing'
+                href='https://docs.google.com/document/d/1bg9gP4pgWWqQBU_HPIDh-kC2P5CormX1RorivY8FyCk/edit'
               >
                 Resume
+              </a>
+            </li>
+            <li>
+              <a
+                target='_blank'
+                rel='noopener noreferrer'
+                href='https://thepurplethread.notion.site/Akshit-Arora-23b75241fc174bd98a8c7c8fed99ae1a'
+              >
+                Notion
               </a>
             </li>
           </ul>
         </div>
       </Fade>
-      <span className='footer'>Made with 💙 by Akshit Arora </span>
+      <div className='footer'>
+        Made with
+        <span role='img' aria-label='emoji'>
+          💙
+        </span>
+        by Akshit Arora
+      </div>
     </div>
   );
 }

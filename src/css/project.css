@@ -9,4 +9,10 @@
     /* height: 45em; */
     object-fit: contain;
   }
+  .project h1 {
+    font-size: 2rem;
+  }
+  .project span {
+    font-size: 0.8rem;
+  }
 }
