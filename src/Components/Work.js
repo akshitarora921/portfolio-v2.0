@@ -21,7 +21,7 @@ function Work() {
         />
         <Project
           title='Listen and Forget'
-          service='React JS, AudD and Chakra UI'
+          service='React JS, AudD, Spotify, Firebase and Chakra UI'
           imgSrc='https://i.ibb.co/ZNyttMw/Screenshot-from-2022-02-02-18-54-59.png'
           projectUrl='https://listen-and-forget.vercel.app/'
         />
