@@ -14,12 +14,11 @@ function About() {
         </h1>
         <Fade bottom>
           <p>
-            Hello! My name is Akshit. I am a self-taught developer who always
-            has a hunger to learn new things. I enjoy solving complex problems.
-            I can be relied upon to help your company achieve its goals by
-            providing sustainable and scalable solutions. I design and code
-            beautifully simple things, and I love what I do. <br />I enjoy
-            creating things that lives on the internet.
+            Hello! I am Akshit. I'm always hungry to learn new things and love
+            solving complex problems. My goal is to provide sustainable,
+            scalable solutions for your company by creating beautiful, simple
+            designs and coding them beautifully too. One of my favorite thing
+            about what I do is creating things that live on the internet!
           </p>
         </Fade>
       </div>
